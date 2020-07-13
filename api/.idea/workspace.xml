@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f9689e7-518a-4e61-a52b-8fb444f6b06a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testsuit/test_suit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="93" />
+              <folding>
+                <element signature="e#49#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/common/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="779" column="18" selection-start-line="779" selection-start-column="18" selection-end-line="779" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>token.txt</find>
+      <find>TestRes</find>
+      <find>verbosity</find>
+      <find>isinstance</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/API_test/testcase/judgeHotelStandard.py" />
+        <option value="$PROJECT_DIR$/API_test/testcase/createOrder.py" />
+        <option value="$USER_HOME$/PycharmProjects/hotel/temporary/test_selenium.py" />
+        <option value="$USER_HOME$/PycharmProjects/hotel/testcase/test_api_user_website.py" />
+        <option value="$PROJECT_DIR$/test/20200619.py" />
+        <option value="$PROJECT_DIR$/API_test/testcase/isCollectHotel.py" />
+        <option value="$PROJECT_DIR$/API_test/common/method_get_data.py" />
+        <option value="$PROJECT_DIR$/API_test/common/api_data.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/test_H5.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/test_H5.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/asas.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base_case/login.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base_case/useinfo.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/pangu_testcase/useinfo.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu_testcase/useinfo.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu_testcase/userinfo.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/vehicle_models.py" />
+        <option value="$PROJECT_DIR$/test/calc.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base/login.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/agents.py" />
+        <option value="$PROJECT_DIR$/test/test_mongodb.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/vehicle_models_get.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/vehicle_models_post.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/consts.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/edit.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/data_method.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/agents.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/purchase.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/purchase_application_status.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/refuse.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/model_management_cases.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/purchase_management_cases.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base/userinfo.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/get_code.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/pangu_data_method.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/login.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/recommend.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/msg.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_list.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_rent.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/userinfo.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_orders.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_search.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_order_detail.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/return_car.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/contract.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/app_data_method.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/HTMLTestRunner_CN.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/HTMLTestRunner_EN.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/testsuit/test_suit.py" />
+        <option value="$USER_HOME$/PycharmProjects/Qiyida/common/HTMLTestRunner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="30" />
+    <option name="y" value="157" />
+    <option name="width" value="1825" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="car_cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="pangu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="pangu" type="462c0819:PsiDirectoryNode" />
+              <item name="model_management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="daily_test" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Qiyida" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Qiyida/common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida\common" />
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida\testcases\pangu\model_management" />
+      <recent name="C:\Users\ziji\selenium\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida\testcases\pangu\purchase_management" />
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida\testcases\pangu\model_management" />
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida\testcases\pangu\base_case" />
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida\testcases" />
+      <recent name="C:\Users\PC\PycharmProjects\Qiyida" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_suit">
+    <configuration name="app_data_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Qiyida/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Qiyida/common/app_data_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_suit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="daily_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Qiyida/testsuit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Qiyida/testsuit/test_suit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in car_order_detail.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="daily_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_order_detail.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in car_orders.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="daily_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_orders.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in userinfo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="daily_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/userinfo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_suit" />
+        <item itemvalue="Python tests.Unittests in car_order_detail.py" />
+        <item itemvalue="Python.app_data_method" />
+        <item itemvalue="Python tests.Unittests in car_orders.py" />
+        <item itemvalue="Python tests.Unittests in userinfo.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f9689e7-518a-4e61-a52b-8fb444f6b06a" name="Default Changelist" comment="" />
+      <created>1571038788498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571038788498</updated>
+      <workItem from="1571038789789" duration="64790000" />
+      <workItem from="1572310672954" duration="34328000" />
+      <workItem from="1573127212109" duration="10236000" />
+      <workItem from="1573205852954" duration="20781000" />
+      <workItem from="1573606419209" duration="630000" />
+      <workItem from="1573615945972" duration="14365000" />
+      <workItem from="1575859584118" duration="24413000" />
+      <workItem from="1577175951378" duration="135000" />
+      <workItem from="1591936933746" duration="44000" />
+      <workItem from="1592013301286" duration="2448000" />
+      <workItem from="1592186040518" duration="623000" />
+      <workItem from="1592378187289" duration="5384000" />
+      <workItem from="1592464879035" duration="7118000" />
+      <workItem from="1592532468694" duration="1472000" />
+      <workItem from="1592555173148" duration="4484000" />
+      <workItem from="1592879267648" duration="891000" />
+      <workItem from="1593669590810" duration="342000" />
+      <workItem from="1593673134692" duration="4820000" />
+      <workItem from="1593677969775" duration="8865000" />
+      <workItem from="1593739888157" duration="6912000" />
+      <workItem from="1593761345262" duration="13399000" />
+      <workItem from="1594265635695" duration="17374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_car_search_py - 2020.07.09 at 19h 16m 32s.xml">
+      <configuration name="Unittests in car_search.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_userinfo_py - 2020.07.09 at 19h 24m 06s.xml">
+      <configuration name="Unittests in userinfo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_orders_py - 2020.07.09 at 19h 25m 57s.xml">
+      <configuration name="Unittests in car_orders.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_orders_py - 2020.07.09 at 19h 26m 26s.xml">
+      <configuration name="Unittests in car_orders.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_order_detail_py - 2020.07.09 at 19h 37m 05s.xml">
+      <configuration name="Unittests in car_order_detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_order_detail_py - 2020.07.09 at 19h 37m 19s.xml">
+      <configuration name="Unittests in car_order_detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_order_detail_py - 2020.07.09 at 19h 37m 25s.xml">
+      <configuration name="Unittests in car_order_detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_order_detail_py - 2020.07.09 at 19h 37m 36s.xml">
+      <configuration name="Unittests in car_order_detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_order_detail_py - 2020.07.09 at 19h 37m 51s.xml">
+      <configuration name="Unittests in car_order_detail.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_car_order_detail_py - 2020.07.09 at 19h 39m 25s.xml">
+      <configuration name="Unittests in car_order_detail.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="243854000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34415585" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4637053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41603467" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.37555066" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/daily_test$get_serch_sellorder.coverage" NAME="get_serch_sellorder Coverage Results" MODIFIED="1576564594877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/daily_test$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1576570731830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/daily_test$test_03.coverage" NAME="test_03 Coverage Results" MODIFIED="1572418094762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/daily_test$test_05__1_.coverage" NAME="test_05 (1) Coverage Results" MODIFIED="1574747496745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_car_order_detail_py.coverage" NAME="Unittests in car_order_detail.py Coverage Results" MODIFIED="1594294765402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_vehicle_models_py.coverage" NAME="Unittests in vehicle_models.py Coverage Results" MODIFIED="1593681167797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_model_management_cases_py.coverage" NAME="Unittests in model_management_cases.py Coverage Results" MODIFIED="1594286879931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_judgeHotelStandard_py.coverage" NAME="Unittests in judgeHotelStandard.py Coverage Results" MODIFIED="1592382798709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_commonPassengersForCloud_py.coverage" NAME="Unittests in commonPassengersForCloud.py Coverage Results" MODIFIED="1592379164531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$calc.coverage" NAME="calc Coverage Results" MODIFIED="1593683186793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_get_code_py.coverage" NAME="Unittests in get_code.py Coverage Results" MODIFIED="1594267197965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_purchase_management_cases_Agent_test_agent.coverage" NAME="Unittests for purchase_management_cases.Agent.test_agent Coverage Results" MODIFIED="1593766839186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_useinfo_py.coverage" NAME="Unittests in useinfo.py Coverage Results" MODIFIED="1593679117136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base_case" />
+    <SUITE FILE_PATH="coverage/daily_test$ca.coverage" NAME="ca Coverage Results" MODIFIED="1573550034004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_preCreateOrder_py.coverage" NAME="Unittests in preCreateOrder.py Coverage Results" MODIFIED="1592382442259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_isCollectHotel_py.coverage" NAME="Unittests in isCollectHotel.py Coverage Results" MODIFIED="1592558907434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1594289202336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_userinfo_py.coverage" NAME="Unittests in userinfo.py Coverage Results" MODIFIED="1594293846080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+    <SUITE FILE_PATH="coverage/daily_test$da.coverage" NAME="da Coverage Results" MODIFIED="1572937696799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$test_selenium__1_.coverage" NAME="test_selenium (1) Coverage Results" MODIFIED="1592186478467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_user_web_site_py.coverage" NAME="Unittests in user_web_site.py Coverage Results" MODIFIED="1592378608132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_purchase_management_cases_py.coverage" NAME="Unittests in purchase_management_cases.py Coverage Results" MODIFIED="1594025879141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_purchase_py.coverage" NAME="Unittests in purchase.py Coverage Results" MODIFIED="1593746200563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryHotelDetailInfo_py.coverage" NAME="Unittests in queryHotelDetailInfo.py Coverage Results" MODIFIED="1592381183767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/daily_test$data.coverage" NAME="data Coverage Results" MODIFIED="1572314217684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/common" />
+    <SUITE FILE_PATH="coverage/daily_test$try.coverage" NAME="try Coverage Results" MODIFIED="1576120783567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/daily_test$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1576570214464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$test_mongodb.coverage" NAME="test_mongodb Coverage Results" MODIFIED="1592532978648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/daily_test$sql.coverage" NAME="sql Coverage Results" MODIFIED="1576567731764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryHotelPriceInfo_py.coverage" NAME="Unittests in queryHotelPriceInfo.py Coverage Results" MODIFIED="1592381055776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_purchase_management_cases_Agent_test_refuse.coverage" NAME="Unittests for purchase_management_cases.Agent.test_refuse Coverage Results" MODIFIED="1593747181345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_consts_py.coverage" NAME="Unittests in consts.py Coverage Results" MODIFIED="1594001536925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/daily_test$page1.coverage" NAME="page1 Coverage Results" MODIFIED="1572247400665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/page" />
+    <SUITE FILE_PATH="coverage/daily_test$djthread.coverage" NAME="djthread Coverage Results" MODIFIED="1572422807242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Desktop/study/SXYH_HG/thread" />
+    <SUITE FILE_PATH="coverage/api$edit.coverage" NAME="edit Coverage Results" MODIFIED="1594002082957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryEntPermissonGroups_py.coverage" NAME="Unittests in queryEntPermissonGroups.py Coverage Results" MODIFIED="1592380097999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_car_search_py.coverage" NAME="Unittests in car_search.py Coverage Results" MODIFIED="1594293391422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryInvoiceType_py.coverage" NAME="Unittests in queryInvoiceType.py Coverage Results" MODIFIED="1592380134157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryHotelStandard_py.coverage" NAME="Unittests in queryHotelStandard.py Coverage Results" MODIFIED="1592380342778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryHotelListNew_py.coverage" NAME="Unittests in queryHotelListNew.py Coverage Results" MODIFIED="1592380864615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_vehicle_models_post_py.coverage" NAME="Unittests in vehicle_models_post.py Coverage Results" MODIFIED="1594001428153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/daily_test$excel.coverage" NAME="excel Coverage Results" MODIFIED="1572310841928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/temporary" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_car_orders_py.coverage" NAME="Unittests in car_orders.py Coverage Results" MODIFIED="1594293985597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+    <SUITE FILE_PATH="coverage/api$test_api_user_website.coverage" NAME="test_api_user_website Coverage Results" MODIFIED="1592558663455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/hotel/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryStaffInfoDetail_py.coverage" NAME="Unittests in queryStaffInfoDetail.py Coverage Results" MODIFIED="1592382263981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$ashdji.coverage" NAME="ashdji Coverage Results" MODIFIED="1592036987178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$app_data_method.coverage" NAME="app_data_method Coverage Results" MODIFIED="1594294598208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/common" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_useinfo_Login.coverage" NAME="Unittests for useinfo.Login Coverage Results" MODIFIED="1593679810559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/pangu_testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_center_py.coverage" NAME="Unittests in center.py Coverage Results" MODIFIED="1592382674263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_createOrder_py.coverage" NAME="Unittests in createOrder.py Coverage Results" MODIFIED="1592382976120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$data_method.coverage" NAME="data_method Coverage Results" MODIFIED="1594002594865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/common" />
+    <SUITE FILE_PATH="coverage/daily_test$seloctor.coverage" NAME="seloctor Coverage Results" MODIFIED="1576567474734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/daily_test$method.coverage" NAME="method Coverage Results" MODIFIED="1572482393881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/common" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_vehicle_models_get_py.coverage" NAME="Unittests in vehicle_models_get.py Coverage Results" MODIFIED="1594001421526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/daily_test$ptcs_suit.coverage" NAME="ptcs_suit Coverage Results" MODIFIED="1572587541845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/testsuit" />
+    <SUITE FILE_PATH="coverage/daily_test$test1217.coverage" NAME="test1217 Coverage Results" MODIFIED="1576567868240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryRegion_py.coverage" NAME="Unittests in queryRegion.py Coverage Results" MODIFIED="1592380409481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryOrderList_py.coverage" NAME="Unittests in queryOrderList.py Coverage Results" MODIFIED="1592378728260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_consts_Consts_test_consts.coverage" NAME="Unittests for consts.Consts.test_consts Coverage Results" MODIFIED="1593685658832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryStandard_py.coverage" NAME="Unittests in queryStandard.py Coverage Results" MODIFIED="1592380827575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/daily_test$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1576570615568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_getSysParamInfo_py.coverage" NAME="Unittests in getSysParamInfo.py Coverage Results" MODIFIED="1592379981255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_purchase_management_cases_Agent.coverage" NAME="Unittests for purchase_management_cases.Agent Coverage Results" MODIFIED="1593767437240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_refuse_py.coverage" NAME="Unittests in refuse.py Coverage Results" MODIFIED="1593746091968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/daily_test$log_decorator.coverage" NAME="log_decorator Coverage Results" MODIFIED="1572420665093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Desktop/study/SXYH_HG/lib" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_car_list_py.coverage" NAME="Unittests in car_list.py Coverage Results" MODIFIED="1594293015687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases" />
+    <SUITE FILE_PATH="coverage/daily_test$test_selenium.coverage" NAME="test_selenium Coverage Results" MODIFIED="1576640371825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/temporary" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryHotelRoom_py.coverage" NAME="Unittests in queryHotelRoom.py Coverage Results" MODIFIED="1592381107014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$20200619.coverage" NAME="20200619 Coverage Results" MODIFIED="1592558536052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_edit_py.coverage" NAME="Unittests in edit.py Coverage Results" MODIFIED="1594002754143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management" />
+    <SUITE FILE_PATH="coverage/daily_test$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1576569641710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_isCollectHotel_Hotel_isCollectHotel_test_isCollectHotel.coverage" NAME="Unittests for isCollectHotel.Hotel_isCollectHotel.test_isCollectHotel Coverage Results" MODIFIED="1592559017179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_querySubway_py.coverage" NAME="Unittests in querySubway.py Coverage Results" MODIFIED="1592380362515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryDicparamInfo_py.coverage" NAME="Unittests in queryDicparamInfo.py Coverage Results" MODIFIED="1592380376409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_costcenterset_py.coverage" NAME="Unittests in costcenterset.py Coverage Results" MODIFIED="1592382396963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$pangu_data_method.coverage" NAME="pangu_data_method Coverage Results" MODIFIED="1594287593486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/common" />
+    <SUITE FILE_PATH="coverage/api$test_suit.coverage" NAME="test_suit Coverage Results" MODIFIED="1594350257051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testsuit" />
+    <SUITE FILE_PATH="coverage/daily_test$Unittests_for_search_sellorder_Search_test_01.coverage" NAME="Unittests for search_sellorder.Search.test_01 Coverage Results" MODIFIED="1574246350845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/testcase" />
+    <SUITE FILE_PATH="coverage/daily_test$Unittests_for_search_sellorder_Search.coverage" NAME="Unittests for search_sellorder.Search Coverage Results" MODIFIED="1572314850948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_purchase_management_cases_Agent_test_purchase_application_status.coverage" NAME="Unittests for purchase_management_cases.Agent.test_purchase_application_status Coverage Results" MODIFIED="1593763697199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/daily_test$test0930.coverage" NAME="test0930 Coverage Results" MODIFIED="1573129061561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../appium/test" />
+    <SUITE FILE_PATH="coverage/daily_test$Unittests_in_search_sellorder_py.coverage" NAME="Unittests in search_sellorder.py Coverage Results" MODIFIED="1572255150573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../selenium/testcase" />
+    <SUITE FILE_PATH="coverage/daily_test$post.coverage" NAME="post Coverage Results" MODIFIED="1576565021440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_getHotelServiceFee_py.coverage" NAME="Unittests in getHotelServiceFee.py Coverage Results" MODIFIED="1592382333338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_queryStandardPlanByCondition_py.coverage" NAME="Unittests in queryStandardPlanByCondition.py Coverage Results" MODIFIED="1592382361595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_test/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_recommend_py.coverage" NAME="Unittests in recommend.py Coverage Results" MODIFIED="1594290214500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base" />
+    <SUITE FILE_PATH="coverage/api$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1592013313199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$Unittests_for_test_user_website_Search.coverage" NAME="Unittests for test_user_website.Search Coverage Results" MODIFIED="1592558339749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/hotel/testcase" />
+    <SUITE FILE_PATH="coverage/api$Unittests_in_agents_py.coverage" NAME="Unittests in agents.py Coverage Results" MODIFIED="1594002936678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management" />
+    <SUITE FILE_PATH="coverage/daily_test$re.coverage" NAME="re Coverage Results" MODIFIED="1572241901064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/api$test_H5.coverage" NAME="test_H5 Coverage Results" MODIFIED="1593676411400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Qiyida" />
+    <SUITE FILE_PATH="coverage/daily_test$tets_01.coverage" NAME="tets_01 Coverage Results" MODIFIED="1576637470165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/PycharmProjects/hotel/page/hotel_user_website.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/hotel/page/hotel_management_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/hotel/common/hotel_management_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/hotel/testcase/hotel_user_website_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/seloctor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_test/testcase/center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_test/testcase/createOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_test/testcase/getHotelServiceFee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#49#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_test/testcase/getUserInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_test/common/method_get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="75" column="78" selection-start-line="75" selection-start-column="78" selection-end-line="75" selection-end-column="78" />
+          <folding>
+            <element signature="e#46#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/asas.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/testcase/queryOrderList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu_testcase/useinfo.py" />
+    <entry file="file://$PROJECT_DIR$/test/calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base/login.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/hotel/testsuit/ptcs_suit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#47#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testport/20200703173018.html" />
+    <entry file="file://$PROJECT_DIR$/test/test_mongodb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/vehicle_models_post.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/vehicle_models_get.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#49#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/purchase_application_status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/refuse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/purchase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/agents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1857010712/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520">
+          <caret line="2545" column="17" selection-start-line="2545" selection-start-column="6" selection-end-line="2545" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/purchase_management/purchase_management_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+            <element signature="e#265#278#0" />
+            <element signature="e#1368#1675#0" />
+            <element signature="e#1724#2695#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/base/userinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/consts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/common/pangu_data_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="63" column="16" lean-forward="true" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/get_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/recommend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/base/msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_rent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/userinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" selection-start-line="12" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/contract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/return_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/common/app_data_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/pangu/model_management/model_management_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="67" column="19" lean-forward="true" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testcases/app/car_cases/car_order_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python36/Lib/site-packages/reload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#23#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/common/HTMLTestRunner_EN.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/common/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="779" column="18" selection-start-line="779" selection-start-column="18" selection-end-line="779" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Qiyida/testsuit/test_suit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="93" />
+          <folding>
+            <element signature="e#49#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
